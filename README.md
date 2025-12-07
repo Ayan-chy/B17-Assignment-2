@@ -10,11 +10,14 @@
 
 ### How to run:
 - `npm i`
-- `node report.js`
+- `npm test`
   
 
 ### View API Documentation:
 https://documenter.getpostman.com/view/37122492/2sB3dPTAsq
+
+### Caution
+Must need secret key to run this project
 
 
 ### Test Case File:
