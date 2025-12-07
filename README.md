@@ -22,6 +22,8 @@ https://documenter.getpostman.com/view/37122492/2sB3dPTAsq
 
 
 ### Newman Report:
+https://github.com/Ayan-chy/B17-Assignment-2/blob/main/Reports/report.html
+
 
 
 
